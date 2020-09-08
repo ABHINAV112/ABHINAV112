@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Abhinav!
-I'm 20 years old, currently in my penultimate year at Nanyang Technological University, Singapore! Still looking for my final goal, currently enjoying tech! I've worked with several companies on various projects, from Computer Vision to Automated Chatbots to tackle buiseness problems! 
 
-<div><p>My profile overview: </p></div>
+I'm a penultimate undergraduate studying electrical and electronic engineering, I love developing applications and writing snippets of meaningful code. Checkout my favourite projects over here on github!
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav112&show_icons=true)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinav112.abhinav112)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinav112&count_private=true&show_icons=true&theme=dark
